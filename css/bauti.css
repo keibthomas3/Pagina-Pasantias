@@ -1,0 +1,41 @@
+body{
+	background-color: #8D00BE;
+	background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAR4AAACwCAMAAADudvHOAAAANlBMVEXkAwN1B4f/jAD/7QAAgCYATf/3agH/jgD/iQD/rQD/8QD56wAAfyYAggAAXs0AS/8xO915AIDwFIeWAAABQUlEQVR4nO3Sy1UCAADEwJW/AiL9N0sHuXidKSEvGwAAAAAAAADA/10IuxJ2IMiT5EnyJHmSPEmeJE+SJ8mT5EnyJHmSPEmeJE+SJ8mT5EnyJHmSPEmeJE+SJ8mTdiPsm7Afwo4EeZI8SZ4kT5InyZPkSfIkeZI8SZ4kT5InyZPkSfIkeZI8SZ4kT5InyZPkSfIkeZI8aXfCToQ9CO5J8iR5kjxJniRPkifJk+RJ8iR5kjxJniRPkifJk+RJ8iR5kjxJniRPkifJk+RJ8qQ9Cfsl7EXYmSBPkifJk+RJ8iR5kjxJniRPkifJk+RJ8iR5kjxJniRPkifJk+RJ8iR5kjxJniRPkiftj7A3YV8EeZI8SZ4kT5InyZPkSfIkeZI8SZ4kT5InyZPkSfIkeZI8SZ4kT5InyZPkSfIkeZI8SZ70Ab3sXaMGkc4/AAAAAElFTkSuQmCC");
+}
+a{
+	color: #ffffff;
+	border: 3px solid #000000;
+	border-radius: 10px;
+	background-color: #000000;
+	font-size: 40px;
+	text-decoration: none;
+	position: absolute;
+	top: 570px; left: 525px;
+}
+a:hover{
+    transform: scale(1.2);
+}
+img{
+	width: 300px;
+	height: 400px;
+	object-fit: cover;
+	position: absolute;
+	top: 150px; left: 500px;
+}
+h2{
+	position: absolute;
+	top: 20px; left: 400px;
+}
+h1{
+	position: absolute;
+	top: 50px; left: 300px;
+}
+.caja{
+	width: 1349px;
+	height: 650px;
+	position: absolute;
+	top: 0px; left: 0px; 
+	    backdrop-filter: blur(5px);
+}
+
+
